@@ -1,7 +1,7 @@
 name,owner,language,stars,forks,watchers,open_issues,created_date,updated_date,license
-tensorflow,tensorflow,C++,197557,76116,197557,2926,2015-11-07 01:19:20+00:00,2026-08-24 20:54:14+00:00,Apache License 2.0
-transformers,huggingface,Python,164401,34342,164401,2396,2018-10-29 13:56:00+00:00,2026-08-24 20:07:14+00:00,Apache License 2.0
-ML-For-Beginners,microsoft,Jupyter Notebook,89751,22062,89751,13,2021-03-03 01:34:05+00:00,2026-08-24 20:45:10+00:00,MIT License
+tensorflow,tensorflow,C++,197557,76117,197557,2924,2015-11-07 01:19:20+00:00,2026-08-24 20:56:41+00:00,Apache License 2.0
+transformers,huggingface,Python,164401,34343,164401,2396,2018-10-29 13:56:00+00:00,2026-08-24 20:07:14+00:00,Apache License 2.0
+ML-For-Beginners,microsoft,Jupyter Notebook,89751,22063,89751,13,2021-03-03 01:34:05+00:00,2026-08-24 20:45:10+00:00,MIT License
 funNLP,fighting41love,Python,82640,15278,82640,52,2018-08-21 11:20:39+00:00,2026-08-24 15:21:08+00:00,Unknown
 awesome-machine-learning,josephmisiti,Python,74145,15621,74145,26,2014-07-15 19:11:19+00:00,2026-08-24 20:14:22+00:00,Other
 scikit-learn,scikit-learn,Python,67055,27309,67055,2126,2010-08-17 09:43:38+00:00,2026-08-24 18:11:16+00:00,"BSD 3-Clause ""New"" or ""Revised"" License"
